@@ -5,7 +5,7 @@ import streamlit as st
 from PIL import Image
 
 # Loading the trained model
-loaded_model = pickle.load(open("C:/Users/jeyasri/Downloads/CROP/crop_prediction.pkl","rb"))
+loaded_model = pickle.load(open("crop_prediction.pkl","rb"))
 
 def crop_prediction(input_data):
     

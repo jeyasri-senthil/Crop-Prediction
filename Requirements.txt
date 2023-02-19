@@ -2,6 +2,5 @@ numpy==1.21.5
 pickle-mixin==1.0.2
 streamlit==1.18.1
 scikit-learn==1.0.2
-sklearn==0.0.post1
 scikit-image==0.19.2
 scikit-learn-intelex==2021.20221004.171935
